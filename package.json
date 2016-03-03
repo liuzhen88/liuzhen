@@ -1,0 +1,19 @@
+{
+  "name": "liuzhen",
+  "version": "1.0.0",
+  "description": "this is my github project for react.js~~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzhen88/test.git"
+  },
+  "author": "liuzhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzhen88/test/issues"
+  },
+  "homepage": "https://github.com/liuzhen88/test#readme"
+}
